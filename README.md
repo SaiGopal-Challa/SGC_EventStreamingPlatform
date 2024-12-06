@@ -1,0 +1,1 @@
+# SGC_EventStreamingPlatform
